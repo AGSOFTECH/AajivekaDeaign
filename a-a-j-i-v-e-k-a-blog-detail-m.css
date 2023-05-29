@@ -1,0 +1,583 @@
+.bg15 {
+  position: absolute;
+  top: 3500px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 375px;
+  height: 733px;
+}
+.review-from-our7 {
+  position: absolute;
+  top: 3562px;
+  left: 24px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.5px;
+  line-height: 28px;
+  display: inline-block;
+  text-align: center;
+  width: 327px;
+}
+.robert-fox7,
+.uiux-designer7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+}
+.uiux-designer7 {
+  top: 22px;
+  font-size: var(--font-size-xs);
+  line-height: 16px;
+  opacity: 0.7;
+}
+.group-child61,
+.text26 {
+  position: absolute;
+  top: 2px;
+  left: 48px;
+  width: 89px;
+  height: 38px;
+}
+.group-child61 {
+  top: -36px;
+  left: -16px;
+  width: 98px;
+  height: 122px;
+  object-fit: cover;
+}
+.group-child62,
+.text-parent9 {
+  position: absolute;
+  top: 3787px;
+  left: 16px;
+  width: 137px;
+  height: 42px;
+}
+.group-child62 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 40px rgba(43, 89, 255, 0.08);
+  width: 327px;
+  height: 143px;
+}
+.group-child63 {
+  position: absolute;
+  top: 104px;
+  left: -16px;
+  border-radius: var(--br-11xs);
+  width: 97px;
+  height: 98.6px;
+}
+.omg-i-cannot10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 26px;
+  display: inline-block;
+  width: 294px;
+}
+.stars-icon10 {
+  position: absolute;
+  top: 94px;
+  left: 0;
+  width: 99.62px;
+  height: 14.46px;
+}
+.omg-i-cannot-believe-that-i-h-parent8,
+.rectangle-parent26 {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  width: 294px;
+  height: 108.46px;
+}
+.rectangle-parent26 {
+  top: 3614px;
+  width: 327px;
+  height: 161px;
+  font-size: var(--font-size-lg);
+}
+.bg-icon14 {
+  position: absolute;
+  top: 3891px;
+  left: 0;
+  width: 375px;
+  height: 344px;
+  object-fit: cover;
+}
+.aajiveka-is-available7 {
+  position: absolute;
+  top: 3953px;
+  left: 24px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.5px;
+  line-height: 28px;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: center;
+  width: 327px;
+}
+.app-store-icon7,
+.play-store-icon7 {
+  position: absolute;
+  top: 4033px;
+  left: 89px;
+  width: 196px;
+  height: 62px;
+  object-fit: cover;
+}
+.play-store-icon7 {
+  top: 4111px;
+  left: 90px;
+}
+.aajiveka-blog-detail-m-child {
+  position: absolute;
+  top: 4235px;
+  left: 0;
+  background-color: var(--color-steelblue-200);
+  width: 375px;
+  height: 789px;
+}
+.facebook-fill-icon7,
+.twitter-fill-icon7 {
+  position: absolute;
+  bottom: 1px;
+  left: 0;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.twitter-fill-icon7 {
+  bottom: 0;
+  left: 38px;
+}
+.linkedin-fill-icon7,
+.youtube-fill-icon7 {
+  position: absolute;
+  bottom: 1px;
+  left: calc(50% + 9px);
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.youtube-fill-icon7 {
+  bottom: 0;
+  left: calc(50% + 47px);
+}
+.follow-us-on7 {
+  position: absolute;
+  width: 66.91%;
+  top: calc(50% + 44px);
+  left: 0;
+  letter-spacing: -0.53px;
+  display: inline-block;
+}
+.whatsapp-image-2023-05-01-at-114 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 118.27px;
+  height: 118.27px;
+  object-fit: cover;
+}
+.facebook-fill-parent5 {
+  position: absolute;
+  bottom: 557px;
+  left: 120px;
+  width: 136px;
+  height: 208px;
+  color: var(--color-white);
+  font-family: var(--font-dm-sans);
+}
+.theme-pages7 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 109px);
+  left: 0;
+  letter-spacing: -0.53px;
+  display: inline-block;
+}
+.contact-us7,
+.home-pages7,
+.pricing7,
+.team7 {
+  position: absolute;
+  width: 95.84%;
+  top: calc(50% - 38px);
+  left: 0;
+  display: inline-block;
+}
+.contact-us7,
+.pricing7,
+.team7 {
+  width: 52.09%;
+  top: calc(50% + 3px);
+}
+.contact-us7,
+.team7 {
+  width: 86.47%;
+  top: calc(50% + 44px);
+}
+.team7 {
+  width: 45.84%;
+  top: calc(50% + 85px);
+}
+.theme-pages-parent5 {
+  position: absolute;
+  width: 29.21%;
+  top: calc(50% + 2008px);
+  right: 64.39%;
+  left: 6.4%;
+  height: 218px;
+  color: var(--color-white);
+}
+.academy7,
+.blog10,
+.company-bio7,
+.help-center7,
+.sales-tools-catalog7 {
+  position: absolute;
+  width: 72.74%;
+  top: calc(50% - 109px);
+  left: 0;
+  letter-spacing: -0.53px;
+  display: inline-block;
+}
+.academy7,
+.blog10,
+.help-center7,
+.sales-tools-catalog7 {
+  width: 22.73%;
+  top: calc(50% - 73.5px);
+}
+.academy7,
+.help-center7,
+.sales-tools-catalog7 {
+  width: 65.02%;
+  top: calc(50% - 32.5px);
+}
+.academy7,
+.sales-tools-catalog7 {
+  width: 100%;
+  top: calc(50% + 8.5px);
+}
+.academy7 {
+  width: 50.76%;
+  top: calc(50% + 49.5px);
+}
+.blog-parent5 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 38px);
+  right: 0;
+  left: 0;
+  height: 147px;
+}
+.company-bio-parent5 {
+  position: absolute;
+  width: 40.8%;
+  top: calc(50% + 2008px);
+  right: 6.4%;
+  left: 52.8%;
+  height: 218px;
+  color: var(--color-white);
+}
+.about-us14,
+.about-us15,
+.information7,
+.support7,
+.terms-and-policy7 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 38px);
+  left: 0;
+  letter-spacing: -0.53px;
+  display: inline-block;
+}
+.about-us14,
+.about-us15,
+.information7,
+.support7 {
+  width: 55.54%;
+  top: calc(50% + 3px);
+}
+.about-us15,
+.information7,
+.support7 {
+  top: calc(50% + 85px);
+}
+.information7,
+.support7 {
+  width: 50.64%;
+  top: calc(50% + 44px);
+}
+.information7 {
+  width: 70.56%;
+  top: calc(50% - 109px);
+}
+.terms-and-policy-parent5 {
+  position: absolute;
+  width: 35.2%;
+  top: calc(50% + 2258px);
+  right: 58.4%;
+  left: 6.4%;
+  height: 218px;
+  color: var(--color-white);
+}
+.button-icon14,
+.button-icon15 {
+  position: absolute;
+  height: 23.53%;
+  width: 100%;
+  top: 41.76%;
+  right: 0;
+  bottom: 34.71%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.button-icon15 {
+  top: 76.47%;
+  bottom: 0;
+}
+.download7 {
+  position: absolute;
+  top: calc(50% - 85px);
+  left: 0;
+  letter-spacing: -0.53px;
+}
+.quicklinks-47 {
+  position: absolute;
+  height: 3.38%;
+  width: 36%;
+  top: 94.94%;
+  right: 11.47%;
+  bottom: 1.67%;
+  left: 52.53%;
+  overflow: hidden;
+  color: var(--color-white);
+}
+.bg-icon15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 427px;
+}
+.how-to-write3 {
+  position: absolute;
+  top: 184px;
+  left: 24px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.2px;
+  line-height: 28px;
+  font-weight: 600;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 327px;
+}
+.aajiveka-blog-detail-m-item,
+.mask-group-icon8 {
+  position: absolute;
+  top: 459px;
+  left: 24px;
+  width: 327px;
+}
+.aajiveka-blog-detail-m-item {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 40px rgba(43, 89, 255, 0.08);
+  height: 3009px;
+}
+.mask-group-icon8 {
+  height: 200px;
+  object-fit: cover;
+}
+.admin3 {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  line-height: 21px;
+}
+.admin-group,
+.admin2,
+.date1,
+.vector-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+}
+.admin-group,
+.admin2,
+.date1 {
+  width: 76px;
+  height: 21px;
+}
+.admin-group,
+.date1 {
+  left: 131px;
+  width: 115px;
+}
+.admin-group {
+  top: 675px;
+  left: 36px;
+  width: 246px;
+  font-size: var(--font-size-sm);
+  color: var(--color-steelblue-200);
+}
+.how-to-write4,
+.keywords-resume1 {
+  position: absolute;
+  top: 712px;
+  left: 36px;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 303px;
+}
+.keywords-resume1 {
+  top: 768px;
+  font-size: var(--font-size-sm);
+  line-height: 18px;
+  font-weight: 500;
+  opacity: 0.8;
+}
+.are-you-struggling1 {
+  margin: 0;
+}
+.are-you-struggling-container1 {
+  position: absolute;
+  top: 838px;
+  left: 36px;
+  line-height: 26px;
+  display: inline-block;
+  width: 303px;
+  opacity: 0.8;
+}
+.understand-the-purpose1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 303px;
+}
+.your-resume-is3 {
+  top: 56px;
+  left: 0;
+  line-height: 26px;
+  display: inline-block;
+  opacity: 0.8;
+}
+.text27,
+.the-format-of1,
+.your-resume-is3 {
+  position: absolute;
+  width: 303px;
+}
+.text27 {
+  top: 1278px;
+  left: 36px;
+  height: 316px;
+}
+.the-format-of1 {
+  top: 36px;
+  left: 0;
+  line-height: 26px;
+  display: inline-block;
+  opacity: 0.8;
+}
+.text28,
+.text29 {
+  position: absolute;
+  top: 1618px;
+  left: 36px;
+  width: 303px;
+  height: 374px;
+}
+.text29 {
+  top: 2016px;
+  height: 348px;
+}
+.rather-than-simply1 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  line-height: 20px;
+  display: inline-block;
+  width: 303px;
+  opacity: 0.8;
+}
+.text30,
+.text31 {
+  position: absolute;
+  top: 2388px;
+  left: 36px;
+  width: 303px;
+  height: 236px;
+}
+.text31 {
+  top: 2648px;
+  height: 216px;
+}
+.at-aajiveka-we-container3 {
+  position: absolute;
+  top: 56px;
+  left: 0;
+  line-height: 20px;
+  display: inline-block;
+  width: 303px;
+  opacity: 0.8;
+}
+.text32 {
+  position: absolute;
+  top: 2888px;
+  left: 36px;
+  width: 303px;
+  height: 556px;
+}
+.whatsapp-image-2023-05-01-at-115 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+}
+.group-child64 {
+  position: absolute;
+  height: 40.82%;
+  width: 7.34%;
+  top: 28.57%;
+  right: 0;
+  bottom: 30.61%;
+  left: 92.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.whatsapp-image-2023-05-01-at-1-parent5 {
+  position: absolute;
+  top: 12px;
+  left: 24px;
+  width: 327px;
+  height: 42px;
+}
+.aajiveka-blog-detail-m {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 5024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-4);
+  font-family: var(--font-poppins);
+}
